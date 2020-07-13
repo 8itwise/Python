@@ -31,7 +31,7 @@ To start a session with a connected node simply use the "select" statement follo
  &nbsp;&nbsp;&nbsp;             'encrypt (password) (directory)':[encrypts all files in the directory specified'] [if directory is not specified all files in the current directory will be encrypted], \
 &nbsp;&nbsp;&nbsp;              'decrypt (password) (directory)':['decrypts all files in the directory specified'] [if directory is not specified all files in the current directory will be decrypted], \
 &nbsp;&nbsp;&nbsp;&nbsp;              'get (filename or path)':['gets file from the victim's machine and sends it over to the server'], \
-&nbsp;&nbsp;&nbsp;&nbsp;              'send (filename or path)':['send file from server and stores it on the victim's machine'] \
+&nbsp;&nbsp;&nbsp;&nbsp;              'send (filename or path)':['send file from server and stores it on the victim's machine'] 
 
 
 ## Author

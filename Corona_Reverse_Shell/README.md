@@ -21,7 +21,7 @@ To start a session with a connected node simply use the "select" statement follo
 
 # Features 
    Corona Shell Commands
-               'list':['lists all active connections']
+               'list':['lists all active connections'] \
                'select (target Client_ID)':['selects a target and creates a session between the server and the client machine ']
                'guide': Display Corona's user commands
       Client Commands

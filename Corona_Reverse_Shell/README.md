@@ -19,11 +19,11 @@ To start a session with a connected node simply use the "select" statement follo
 
 
 ## Features 
-   Corona Shell Commands \
+ ###  Corona Shell Commands \
 &nbsp;&nbsp;&nbsp;&nbsp;               'list':['lists all active connections'] \
 &nbsp;&nbsp;&nbsp;&nbsp;               'select (target Client_ID)':['selects a target and creates a session between the server and the client machine '] \
 &nbsp;&nbsp;&nbsp;&nbsp;               'guide': Display Corona's user commands \
-      Client Commands \
+ ###  Client Commands \
 &nbsp;&nbsp;&nbsp;&nbsp;              'quit':['takes you back to the Corona shell interface'] \
 &nbsp;&nbsp;&nbsp;&nbsp;              'wifi_passwords':['gets all known wifi password that the client node has ever connected to'], \
  &nbsp;&nbsp;&nbsp;&nbsp;             'screenshot':['takes a screen shot of the client machine'], \

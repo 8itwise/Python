@@ -24,7 +24,7 @@ To start a session with a connected node simply use the "select" statement follo
 When taking a screenshot or camshot from the victim's machine the image is stored on the server in the following format: \
 Screenshot: (victim_ip)_screenshot_img_imageId.extention(jpg) \
 Camshot: (victim_ip)_camshot_img_imageId.extention(jpg) \
-image ID will autoincrement for every image taken 
+image ID will auto increment for every image captured
 
 ## Features 
  ####  Corona Shell Commands 

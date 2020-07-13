@@ -3,7 +3,7 @@
 Python Reverse shell
 
 ## Python Reverse shell
-![](images/connectionDiagram.PNG)
+![](images/connDiagram.PNG)
 
 Firstly run the server program using any available python IDE and ensure the interpreter is running python 3. 
 Wait for a few seconds allowing the listener to actively listen for new connection before running the client program

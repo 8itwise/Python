@@ -1,8 +1,5 @@
 # AOX Reverse Shell
 
-Python Reverse shell
-
-## Python Reverse shell
 ![](images/connDiagram.PNG)
 
 Firstly run the server program using any available python IDE and ensure the interpreter is running python 3. 

@@ -3,8 +3,17 @@
 Python Reverse shell
 
 ## Getting Started
+Simple python reverse shell with extra functionalities
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Firstly run the server program using any available python IDE and ensure the interpreter is running python 3. 
+Wait for a few seconds allowing the listener to actively listen for new connection before running the client program
+
+#Accessing Active connection list 
+
+Simply run the 'list' command to display all active connection to the server in a tabular fashion. 
+
+
+
 
 
 ## Author

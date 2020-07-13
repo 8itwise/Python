@@ -2,7 +2,7 @@
 
 Python Reverse shell
 
-## Simple multiclient python reverse shell with extra functionalities
+# Simple multiclient python reverse shell with extra functionalities
 
 Firstly run the server program using any available python IDE and ensure the interpreter is running python 3. 
 Wait for a few seconds allowing the listener to actively listen for new connection before running the client program
@@ -34,6 +34,6 @@ To start a session with a connected node simply use the "select" statement follo
 &nbsp;&nbsp;&nbsp;&nbsp;              'send (filename or path)':['send file from server and stores it on the victim's machine'] \
 
 
-## Author
+# Author
 
 * **Xand**

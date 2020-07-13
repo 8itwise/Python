@@ -12,11 +12,12 @@ Wait for a few seconds allowing the listener to actively listen for new connecti
 ## Accessing active connection list 
 
 Simply run the 'list' command to display all active connection to the server in a tabular fashion. 
-
+![](images/list.PNG)
 
 ## Starting a session 
 
 To start a session with a connected node simply use the "select" statement followed by the client ID of the connected node
+![](images/session.PNG)
 
 ## Screenshot & Camshot 
 
